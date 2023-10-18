@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1289",
+    "database": "community_business.dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "1289",
+    "database": "community_business.dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "1289",
+    "password": null,
+    "database": "community_business.dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
