@@ -112,14 +112,14 @@ module.exports = (sequelize, DataTypes) => {
     });
   }
 
-  User.associate = function (models) {
-    User.belongsTo(models.Role, {
-      sourceKey: 'id',
-      foreignKey: 'role_id',
-      constraints: false,
-      as: 'Role'
-    });
-  }
+User.associate = function (models) {
+  User.hasOne(models.Address, {
+    sourceKey: 'id',
+    foreignKey: 'business_id',
+    constraints: false,
+    as: 'Business'
+  });
+}
 
   return User;
 };
