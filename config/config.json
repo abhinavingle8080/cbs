@@ -1,23 +1,27 @@
 {
   "development": {
     "username": "root",
-    "password": "1289",
+    "password": "Pass@1234",
     "database": "community_business.dev",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "1289",
+    "password": "Pass@1234",
     "database": "community_business.dev",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "1289",
-    "password": null,
+    "username": "root",
+    "password": "Pass@1234",
     "database": "community_business.dev",
     "host": "127.0.0.1",
     "dialect": "mysql"
-  }
+  },
+  "app_secret_key": "62318d2e1337923164e10358a62f30084b71e184b8fd4707429ba80121afa981",
+  "jwt_encryption": "CommunityBusinessSearch",
+  "jwt_expiration": "365d",
+  "fcm_server_key" : ""
 }

@@ -2,7 +2,7 @@
 
 const bcrypt = require("bcrypt");
 const bcrypt_p = require("bcrypt-promise");
-const { TE, to } = require("../services/util.service");
+const { TE, to } = require('../services/utilServices');
 
 const {
   Model

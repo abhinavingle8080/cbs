@@ -1,0 +1,202 @@
+{
+	"greeting": "Hello!",
+	"message": "Welcome to the Color Pencil.",
+	"ErrorMessage": "Something went wrong",
+	"Auth": {
+		"Signin": "Login Successfully",
+		"Pending": "Your account is already in review, we will inform as soon review completed. Thank you.",
+		"Rejected": "Your account verification status is rejected by admin.",
+		"Registered": "You have already registered in our system.",
+		"EmailValidation": "Please enter the registered email address",
+		"UserNotRegisterd": "This email is not registered with us. Please sign up",
+		"InvalidCredentials": "Invalid credentials.",
+		"AlreadyRegisteredEmail": "This email address has already registered.",
+		"AlreadyRegisteredPhone": "This phone number has already registered.",
+		"GradeIdValidation": "Grade id does not exist",
+		"Signup": "Congratulations, your account has been successfully created.",
+		"ResetPasswordLinkSent": "Reset password link is sent to your registered Email id",
+		"EmailNotExist": "Email not exist",
+		"AlreadyExist": "Already exists.",
+		"EmailAlreadyExist": "Email already exists.",
+		"PhoneAlreadyExist": "Phone already exists.",
+		"AlreadyTaken": "has already been taken",
+		"CodeSent": "Code has been sent to ",
+		"InvalidOtp": "Invalid OTP",
+		"OtpVerified": "OTP verified successfully",
+		"PasswordReset": "Password reset successfully",
+		"PasswordRequired": "Password is required.",
+		"GoogleIDRequired": "Google id is required.",
+		"FacebookIDRequired": "Facebook id is required.",
+		"AppleIDRequired": "Apple id is required."
+	},
+	"Common": {
+		"Column": {
+			"Name": "Name",
+			"Status": "Status",
+			"User": "User"
+		},
+		"Validation": {
+			"IdNotExistMessage": "id does not exist",
+			"IdRequired": "id is required",
+			"IsRequired": "is required",
+			"PasswordNotMatch": "New password and confirm password does not match.",
+			"IncorrectPassword": "Current password is incorrect",
+			"InvalidOldPassword": "invalid old password",
+			"NameAlreadyExist": "This name already exists",
+			"NotExist": "does not exist"
+		},
+		"Success": {
+			"SuccessListMessage": "fetched successfully",
+			"InsertRecordMessage": "added successfully",
+			"UpdateRecordMessage": "updated successfully",
+			"DeleteRecordMessage": "deleted successfully",
+			"UploadMessage": "uploaded successfully",
+			"CreatedSuccess": "created successfully"
+		},
+		"Error": {
+			"ErrorMessage": "Something went wrong",
+			"NotFound": "Not Found",
+			"NotExist": "does not exist",
+			"RecordNotFound": "Record Not Found",
+			"TryAfterSometime": "Please try after sometime",
+			"NoDataFound": "Data not found.",
+			"ExerciseNoAlreadyExist": "Exercise no already exists.",
+			"AlreadyExistMessage": "Already exists."
+		}
+	},
+	"UserProfile": {
+		"UserProfile": "User Profile",
+		"UserProfiles": "User Profiles",
+		"UserProfileImage": "User Profile Image",
+		"UserProfileDetails": "User Profile Details",
+		"AboutUs": "About me",
+		"Profiles": "Profiles",
+		"Account": "Account",
+		"UserRegistered": "User registered successfully.",
+		"Logout": "Logout Successfully, Have a nice day!",
+		"Profile": "Profile",
+		"LockProfile": "Your profile has been locked successfully",
+		"UnlockProfile": "Your profile has been unlocked successfully",
+		"NotificationDisable": "Your notifications has been disabled successfully",
+		"NotificationEnable": "Your notifications has been enabled successfully"
+	},
+	"Profile": {
+		"Profile": "Profile",
+		"Profiles": "Profiles",
+		"ProfileImage": "Profile Image",
+		"ProfileDetails": "Profile Details",
+		"AboutUs": "About me",
+		"Account": "Account",
+		"Registered": " registered successfully.",
+		"Logout": "Logout Successfully, Have a nice day!"
+	},
+	"RolePermission": {
+		"RolePermission": "Role Permission",
+		"RolePermissions": "Role Permissions"
+	},
+	"Role": {
+		"Role": "Role",
+		"Roles": "Roles"
+	},
+	"ApprovalRequest": {
+		"ApprovalRequest": "Approval Request",
+		"ApprovalRequests": "Approval Requests",
+		"RequestStatus": "Request Status",
+		"Request": "Request",
+		"Requests": "Requests"
+	},
+	"PageContent": {
+		"PageContent": "Page Content",
+		"PageContents": "Page Contents"
+	},
+	"Badge": {
+		"Badge": " Rank",
+		"Badges": " Ranks"
+	},
+	"Language": {
+		"Language": "Language",
+		"Languages": "Languages"
+	},
+	"User": {
+		"User": "User",
+		"Users": "Users"
+	},
+	"State": {
+		"State": "State ",
+		"States": "States"
+	},
+	"AppVersion": {
+		"AppVersion": "App Version",
+		"AppVersions": "App Versions"
+	},
+	"City": {
+		"City": "City",
+		"Cities": "Cities"
+	},
+	"Country": {
+		"Country": "Country",
+		"Countries": "Countries"
+	},
+	"SystemSetting": {
+		"SystemSetting": "System Setting",
+		"SystemSettings": "System Settings"
+	},
+	"Grade": {
+		"Grades": "Grades",
+		"Grade": "Grade"
+	},
+	"DeviceToken": {
+		"DeviceToken": "Device Token"
+	},
+	"Success": {
+		"InsertRecordMessage": "InsertRecordMessage"
+	},
+	"RoleModule": {
+		"RoleModule": "Role Module",
+		"RoleModules": "Role Modules"
+	},
+	"Level": {
+		"Levels": "Levels",
+		"Level": "Level"
+	},
+	"Student": {
+		"Student": "Student",
+		"Students": "Students"
+	},
+	"GradeLevelAtlas": {
+		"GradeLevelAtlas": "Grade Level Atlas",
+		"GradeLevelAtlases": "Grade Level Atlases"
+	},
+	"Category": {
+		"Category": "Category",
+		"Categories": "Categories"
+	},
+	"Faq": {
+		"Faq": "Faq",
+		"Faqs": "Faqs"
+	},
+	"Assignment": {
+		"Assignment": "Assignment",
+		"Assignments": "Assignments"
+	},
+	"Exercise": {
+		"Exercise": "Exercise",
+		"Exercises": "Exercises"
+	},
+	"Video": {
+		"Video": "Video",
+		"Videos": "Videos"
+	},
+	"Link": {
+		"Link": "Link",
+		"Links": "Links"
+	},
+	"Subscription": {
+		"Subscription": "Subscription",
+		"Subscriptions": "Subscriptions"
+	},
+	"Question": {
+		"Question": "Question",
+		"Questions": "Questions"
+	}
+}
