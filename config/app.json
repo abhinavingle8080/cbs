@@ -1,0 +1,44 @@
+{
+    "test": {
+        "SENDGRID_API_KEY": "",
+        "SENDGRID_EMAIL_ID": "",
+        "MAIL_USERNAME": "abhinavingle52@gmail.com",
+        "MAIL_PASSWORD": "pcypwvfnleggstou",
+        "MAIL_FROM": "abhinavingle52@gmail.com",
+        "BASE_URL": "http://localhost:8011",
+        "REQ_BASE_URL": "http://localhost:3000",
+        "IMAGE_RELATIVE_PATH": "storage/images",
+        "IMAGE_PATH": "http://localhost:8011/storage/images",
+        "PORT": 8000,
+        "FCM_SERVER_KEY": "",
+        "ADMIN_BASE_URL": "http://localhost:3000"
+    },
+    "development": {
+        "SENDGRID_API_KEY": "",
+        "SENDGRID_EMAIL_ID": "",
+        "MAIL_USERNAME": "abhinavingle52@gmail.com",
+        "MAIL_PASSWORD": "pcypwvfnleggstou",
+        "MAIL_FROM": "abhinavingle52@gmail.com",
+        "BASE_URL": "http://localhost:8011",
+        "REQ_BASE_URL": "http://localhost:8011",
+        "IMAGE_RELATIVE_PATH": "storage/images",
+        "IMAGE_PATH": "http://localhost:8011/storage/images",
+        "PORT": 8000,
+        "FCM_SERVER_KEY": "",
+        "ADMIN_BASE_URL": "http://localhost:3000"
+    },
+    "production": {
+        "SENDGRID_API_KEY": "",
+        "SENDGRID_EMAIL_ID": "",
+        "MAIL_USERNAME": "abhinavingle52@gmail.com",
+        "MAIL_PASSWORD": "pcypwvfnleggstou",
+        "MAIL_FROM": "abhinavingle52@gmail.com",
+        "BASE_URL": "http://localhost:8011",
+        "REQ_BASE_URL": "http://localhost:8011",
+        "IMAGE_RELATIVE_PATH": "storage/images",
+        "IMAGE_PATH": "http://localhost:8011/storage/images",
+        "PORT": 1338,
+        "FCM_SERVER_KEY": "",
+        "ADMIN_BASE_URL": "http://localhost:3000"
+    }
+}

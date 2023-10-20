@@ -4,20 +4,42 @@
     "password": "1289",
     "database": "community_business.dev",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "logging": false,
+    "poll": {
+      "max": 5,
+      "min": 0,
+      "idle": 10000
+    }
   },
   "test": {
     "username": "root",
     "password": "1289",
     "database": "community_business.dev",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "logging": true,
+    "poll": {
+      "max": 5,
+      "min": 0,
+      "idle": 10000
+    }
   },
   "production": {
-    "username": "1289",
-    "password": null,
+    "username": "root",
+    "password": "1289",
     "database": "community_business.dev",
     "host": "127.0.0.1",
-    "dialect": "mysql"
-  }
+    "dialect": "mysql",
+    "logging": false,
+    "poll": {
+      "max": 5,
+      "min": 0,
+      "idle": 10000
+    }
+  },
+  "app_secret_key": "62318d2e1337923164e10358a62f30084b71e184b8fd4707429ba80121afa981",
+  "jwt_encryption": "CommunityBusinessSearch",
+  "jwt_expiration": "365d",
+  "fcm_server_key" : ""
 }
